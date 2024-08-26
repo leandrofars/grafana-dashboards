@@ -23728,9 +23728,6 @@
     "refresh": "1m",
     "revision": 1,
     "schemaVersion": 39,
-    "tags": [
-      "linux"
-    ],
     "templating": {
       "list": [
         {
